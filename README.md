@@ -3,9 +3,10 @@
 https://roadmap.sh/projects/task-tracker
 
 ## Compliation
-
+```
 cmake -B build
 cmake --build build
+```
 
 ## Usage Example
 ```
