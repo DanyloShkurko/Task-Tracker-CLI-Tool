@@ -20,3 +20,19 @@ Example usage
 	 task-cli mark-in-done [ INDEX OF THE TASK ]
 	 task-cli list
 	 task-cli list [ SOME STATUS F.E 'todo', 'done', 'in progress' ]
+
+./build/task-cli add "Buy groceries"
+Task added successfully (ID: 1)
+
+./build/task-cli list
+❌ ❌ ❌ ❌ ❌ ❌
+
+	• Id: 1
+
+	• Description: Buy groceries
+
+	• Created: Friday 30th of February at 18:54
+
+	• Updated: Friday 30th of February at 18:54
+
+❌ ❌ ❌ ❌ ❌ ❌
